@@ -17,16 +17,16 @@ var weight = 75;
 // variable type
 /***string data type
  *  zero or more characters written inside quotes.
- * 
- * Numberic data type
+ *
+ * Numeric data type
  * Numbers can be written with or without deciamls and without quotes.
- * 
- * Boolean data type 
+ *
+ * Boolean data type
  * It take only the values true(1) or false(0) and written without quotes.
- * ***/ 
+ * ***/
 var person = "sihab";
 var address = "dinajpur";
-var date = '13th septempber';
+var date = "13th septempber";
 
 // Boolean data type
 
